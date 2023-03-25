@@ -1,0 +1,3 @@
+# #EXTM3U
+#EXTINF:-1,Telefe
+https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1679852695~acl=%2f*~data=hdntl~hmac=706c7168f3ddaab0973dd64f807e48eebee0e50403c0559f203567be7e87c598/master-mtlf.m3u8
