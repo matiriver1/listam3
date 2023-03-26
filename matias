@@ -1,6 +1,6 @@
 # #EXTM3U
 #EXTINF:-1,Telefe
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1679763973~exp=1679771173~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=2c986b2db0ef0fc87823e03b60677c23564314dd09140d8d455bc2e1ec9e6e0d
+https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1679945900~acl=%2f*~data=hdntl~hmac=39cca5502d4145e00e8b4ec43531f5cf72d52e586b4764ea290bbfec0bff239b/master-mtlf.m3u8
 #EXTINF:-1,Fox
-https://dtvott-abc.akamaized.net/dash_live_1216/dash/1216_TELEFE_HD-video=3838800.dash
+https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF:-1,Fox
