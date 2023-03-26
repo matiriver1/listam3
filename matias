@@ -3,5 +3,5 @@
 https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1679945900~acl=%2f*~data=hdntl~hmac=39cca5502d4145e00e8b4ec43531f5cf72d52e586b4764ea290bbfec0bff239b/master-mtlf.m3u8
 #EXTINF:-1,Fox
 https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
-#EXTINF:-1,tnt telefe   histori
-https://dtvott-cbc.akamaized.net/dash_live_1148/dash/1148_HISTORY_CHANNEL-video=3930000-100791616349506.dash
+#EXTINF:-1,Canal
+https://em-h.phncdn.com/hls/videos/202301/11/423149652/,1080P_4000K,720P_4000K,480P_2000K,240P_1000K,_423149652.mp4.urlset/master.m3u8?validfrom=1679856920&validto=1679864120&ipa=186.12.170.3&hdl=-1&hash=ou%2FMVlr%2Fvs7at0NY2jIsPhZgz%2Fw%3D
