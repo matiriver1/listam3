@@ -4,3 +4,4 @@ https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hd
 #EXTINF:-1,Fox
 https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1679947671~acl=%2f*~data=hdntl~hmac=28c3c70f5a55916068fdf6af87b4bd00fa42407f96a2878ab91804a131804a91/master-mtlf3.m3u8
 #EXTINF:-1,Canal7
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1679857527~exp=1679864727~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=0c774be4c7dcb8cd35fe70d5985693e99e8169320a65db5b6f046cb55b304392
