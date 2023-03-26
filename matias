@@ -3,4 +3,5 @@
 https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1679945900~acl=%2f*~data=hdntl~hmac=39cca5502d4145e00e8b4ec43531f5cf72d52e586b4764ea290bbfec0bff239b/master-mtlf.m3u8
 #EXTINF:-1,Fox
 https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
-#EXTINF:-1,Fox
+#EXTINF:-1,tnt premium   
+https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
